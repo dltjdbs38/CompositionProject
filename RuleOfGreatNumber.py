@@ -19,7 +19,5 @@ while True:
     if m==0:
         break
 print(sum)
-# for num in numbers:
-#     sum = sum + num * k
-#     numbers = numbers.pop() # 맨 앞에서부터 제거
+
 
