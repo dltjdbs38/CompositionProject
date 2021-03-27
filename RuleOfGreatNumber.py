@@ -4,7 +4,7 @@ sum=0
 numbers=list(map(int,input().split()))
 # 주의, list내의 원소는 string 취급임.
 # new_list=sorted(numbers) list를 오름차순 또는 알파벳순으로 정렬
-# numbers=numbers.sort() 기존 list를 오름차순 정렬
+# numbers.sort() 기존 list를 오름차순 정렬
 numbers.sort()
 # 오름차순 정렬 numbers=[1,2,3,6,6]
 first = numbers[n-1]
