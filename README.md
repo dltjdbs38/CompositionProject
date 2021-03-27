@@ -1,2 +1,2 @@
 # BaekJoon Coding Test
-# React Study
+# Samsung SW Coing Test
