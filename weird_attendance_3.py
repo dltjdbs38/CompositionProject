@@ -19,4 +19,3 @@ for i in nums:
   if i<min:
       min=i
 print(min)
-#
